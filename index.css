@@ -403,6 +403,11 @@ cursor: pointer;
   
 }
 
+.text_bar a:hover {
+  text-decoration: underline;
+  /* color: white; */
+}
+
 .cpoint {
    color: rgba(238, 156, 5, 0.644);
    font-weight: bold;
