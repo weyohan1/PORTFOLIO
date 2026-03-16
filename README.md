@@ -37,7 +37,7 @@
 
 <br>
 
-### 💡 스킬
+## 💡 스킬
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,7 +48,7 @@
 
 <br>
 
-### 📚 프로젝트
+## 📚 프로젝트
 
 <img src ="https://github.com/user-attachments/assets/5025daf2-491b-4207-9e25-6c286879052b" />
 
@@ -58,7 +58,7 @@
 
 <br>
 
-### 📞 연락처 
+## 📞 연락처 
 
 - 휴대폰 : 010 - 3201 -9394
 - 메일 : weyohan1@gmail.com
