@@ -264,73 +264,12 @@ cursor: pointer;
 }
 
 .skill_text {
-  font-size: 15px;
+  font-size: 13px;
   text-align: center;
   align-items: center;
   margin: 0 auto;
+ 
 }
-
-
-
-
-
-.graph_box {
-  width: 300px;
-  margin: 0 auto;
-
-}
-
-
-.bar {
-  width: 300px;
-  height: 50px;
-  background: #eee;
-  border-radius: 20px;
-}
-
- .color {
-  height: 100%;
-  line-height: 50px;
-  border-radius: 20px;
-
-}
-.color p {
-  text-align: center;
-  color: black;
-  font-weight: bold;
-}
-
-#SKILL.active .color {
-    animation: graph 1s ease-in-out forwards;
-}
-@keyframes graph {
-from {width: 0;}
-}
-
-.html {width: 80%;
-background: linear-gradient(90deg, #ec4d38, #c07065); }
-
-.css {width: 80%;
-background: linear-gradient(90deg, #53c0f3, #5853F3);}
-
-.figma {width:60%;
-background: linear-gradient(90deg, #A24ABF, #c182d6);
-}
-
-.javascript {width: 60%;
-background: linear-gradient(90deg, #eccb11, hsl(51, 67%, 63%));
-}
-
-.react {width: 60%;
-background: linear-gradient(90deg, #1db2db, #7CE3FF);
-}
-
-.jQuery {width: 60%;
-background: linear-gradient(90deg, #125d8f, #51b4a4);
-}
-
-
-
 
 
 
@@ -446,19 +385,13 @@ background: linear-gradient(90deg, #125d8f, #51b4a4);
 }
 
 
-.hr_bar {
-  width: 100%;
-  border: 2px solid white;
-  margin: 0; 
-}
-
 
 .project_note_text {
   width: 700px;
-
   align-items: center;
     margin: 0 auto;
     font-size: 15px;
+  
   
 }
 
@@ -498,28 +431,7 @@ background: linear-gradient(90deg, #125d8f, #51b4a4);
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/**** 콘텍트 ****/
 
 .contact_box {
   width: 80%;
@@ -548,7 +460,6 @@ font-size: 25px;
 
   .contact_img_box {
   
-    /* border: 1px solid white; */
     width: 50px;
     align-items: center;
     height: 50px;
