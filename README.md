@@ -52,8 +52,8 @@
 
 <img src ="https://github.com/user-attachments/assets/5025daf2-491b-4207-9e25-6c286879052b" />
 
-- 팀 프로젝트 깃허브 링크 : https://github.com/weyohan1/project-react
-- 개인 프로젝트 깃허브 링크 : https://github.com/weyohan1/project-caffeshop
+- 팀 프로젝트 깃허브 링크 : https://github.com/weyohan1/project-caffeshop
+- 개인 프로젝트 깃허브 링크 : https://github.com/weyohan1/project-react 
 - 개인 프로젝트 깃허브 링크 : https://github.com/weyohan1/project-dogshop
 
 <br>
